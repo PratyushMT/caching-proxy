@@ -2,9 +2,9 @@
   "name": "caching-proxy",
   "version": "1.0.0",
   "description": "CLI-based HTTP caching proxy server.",
-  "main": "index.js",
+  "main": "src/index.js",
   "bin": {
-    "caching-proxy": "./index.js"
+    "caching-proxy": "./src/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
